@@ -1,0 +1,29 @@
+th {
+    text-align: right;
+    width: 150px;
+    height: 7rem;
+    padding-right: 10px;
+}
+
+textarea {
+    width: 480px;
+}
+
+input[type="text"] ,input[type="email"] {
+    width: 480px;
+    margin-right: px;
+}
+
+.wrap {
+    text-align: center;
+}
+
+.button {
+    color: #ffffff;
+    font-size: 3rem;
+    background-color: #008B8B;
+    padding: 10px;
+}
+.button:hover{
+    opacity: 0.6;
+}
